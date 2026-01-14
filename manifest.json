@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "MathPen+",
+  "version": "17.0",
+  "description": "Gelişmiş Çizim, Matematik ve Mühendislik Aracı",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_title": "MathPen+",
+    "default_icon": {
+      "128": "icon.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
