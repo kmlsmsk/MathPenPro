@@ -6,8 +6,8 @@
 
 **MathPen Pro**, tarayıcınızdaki herhangi bir web sayfasının üzerine not almanızı, mühendislik çizimleri yapmanızı ve ders anlatmanızı sağlayan, Vanilla JavaScript ile geliştirilmiş yüksek performanslı bir Chrome Uzantısıdır.
 
-![MathPen Screenshot](https://via.placeholder.com/800x400?text=MathPen+Arayuz+Gorseli) 
-*(Buraya projenizin ekran görüntüsünü ekleyin)*
+![MathPen Screenshot]() 
+
 
 ## 🌟 Öne Çıkan Özellikler
 
@@ -55,13 +55,7 @@ Bu proje henüz Chrome Web Mağazası'nda yayınlanmadıysa, **Geliştirici Modu
 *   **CSS3:** Modern Grid, Flexbox ve Backdrop-Filter efektleri için.
 *   **Chrome Extension Manifest V3:** En güncel güvenlik ve performans standartları.
 
-## 🤝 Katkıda Bulunma
 
-1.  Bu projeyi Fork'layın.
-2.  Yeni bir özellik dalı (branch) oluşturun (`git checkout -b feature/YeniOzellik`).
-3.  Değişikliklerinizi yapın ve Commit'leyin (`git commit -m 'Yeni özellik eklendi'`).
-4.  Dalınızı Push'layın (`git push origin feature/YeniOzellik`).
-5.  Bir Pull Request oluşturun.
 
 ## 📝 Lisans
 
@@ -69,4 +63,4 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 ---
 **Geliştirici:** Kemal Şimşek  
-*Kod ve Tasarım Aşkına.*
+*Bilgisayar Mühendisi & Matematik Öğretmeni*
